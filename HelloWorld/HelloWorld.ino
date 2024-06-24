@@ -1,4 +1,9 @@
 #define accelerometer = N/A;
+
+//Yubin Wu git comment
+
+
+
 //Additional pins if we choose a multi-axis Accelerometer
 #define capacitiveTouch = N/A;
 #define trigger = N/A;

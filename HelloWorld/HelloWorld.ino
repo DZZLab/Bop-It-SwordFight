@@ -5,6 +5,8 @@
 #define display = N/A;
 #define speaker = N/A;
 
+//Kevin's Hello World
+
 int score = 0;
 bool success = 1;
 void setup() {

@@ -1,7 +1,7 @@
 #include <CapacitiveSensor.h>
 #define LED 7
 CapacitiveSensor TouchSensor = CapacitiveSensor(2, 3);
-const int TouchThreshold = 125;
+const int TouchThreshold = 100;
 
 void setup() {
   // put your setup code here, to run once:
